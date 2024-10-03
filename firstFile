@@ -2,4 +2,8 @@ This is the first file
 Adding a Dev comment here
 Adding a QA comment here
 
+
 Adding Dev Commit that QA will not pull which will cause merge conflict
+
+Adding Qa commit that will cause a merge conflict
+
